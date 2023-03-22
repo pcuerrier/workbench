@@ -1,0 +1,9 @@
+Todos:
+    ☐ Draw using OpenGL
+        ☐ Sprite Class
+            ☐ vertices
+                ☐ position
+                ☐ texture coords (one file with multiple textures?)
+            ☐ indices
+            ☐ texture(s?)
+                ☐ layers of textures(?) or layers of sprites to make a model
